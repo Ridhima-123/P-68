@@ -1,0 +1,20 @@
+#video {
+    height: 440px;
+    width: 1000px;
+
+}
+
+body {
+    text-align: center
+}
+
+marquee {
+    background-color: aquamarine;
+    font-size: 20px;
+
+}
+
+img {
+ position: absolute;
+    left: 200px
+}
